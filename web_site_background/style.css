@@ -1,0 +1,35 @@
+body
+{
+    background-image:url("images/photo1663191519.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+
+}
+
+.container
+{
+width: 40%;
+margin: 0 auto;
+}
+
+div
+{
+background-color: white;
+border: 1px black dashed;
+margin: 10px 0 ;
+padding: 10px;
+color: black;
+border-radius: 4PX;
+overflow-x: auto;
+
+}
+
+dt
+{
+    margin-bottom: 10px;
+}
+
+code{
+    color: rgb(27, 211, 211);
+}
