@@ -97,8 +97,17 @@ input[type="submit"]:first-of-type{
 
     border-radius: 100% 0% 100% 0% / 24% 100% 0% 76% ;
 }
-input[type="reset"]:last-of-type{
+input[type="submit"]:hover{
+    border-color: white;
+    color: white;
+}
+input[type="reset"]{
     border-radius: 100% 0% 100% 0% / 0% 73% 27% 100% ;
+
+}
+input[type="reset"]:hover{
+    border-color: red;
+    color: red;
 }
 textarea {
     resize: none;
